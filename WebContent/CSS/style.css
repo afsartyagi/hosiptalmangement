@@ -1,0 +1,89 @@
+a{
+	font-size:2vw;
+	margin-right:1vw;
+}
+a:hover{
+	color:red;
+}
+.dv{
+	text-align:center;
+	top-margin:4vw;
+}
+
+.lah{
+	font-size:2vw;
+	font-family:elephant;
+
+}
+.ta{
+	margin:auto;
+	border:0.5vw solid silver;
+	font-size:2vw;
+	margin-top:2vw
+}
+.tb{
+	font-size:1.7vw;
+	width:35vw;
+	margin-right:1vw;
+	
+}
+.pd{
+	padding:1vw;
+}
+.bt{
+	align:centre;
+	font-size:1.6vw;
+	padding:.5vw 1.2vw;
+	border:none;
+	cursor:hand;
+	color:white;
+	background-color:blue;
+	border-radius:.5vw;
+}
+span{
+	color:red;
+	font-size:1.4vw;
+}
+.tar{
+	margin:auto;
+	border-collapse:collapse;
+	border:0.3vw solid silver;
+	font-size:2vw;
+	margin-top:2vw;
+	width:70%;
+
+}
+.tr:hover{
+	background-color:lightGray;
+}
+.td:hover{
+background-color:lightpink;
+	
+}
+.bt1{
+	align:centre;
+	font-size:1.6vw;
+	padding:.5vw 1.2vw;
+	border:none;
+	cursor:hand;
+	color:white;
+	background-color:red;
+	border-radius:.5vw;
+}
+.bt2{
+	align:centre;
+	font-size:1.6vw;
+	padding:.5vw 1.2vw;
+	border:none;
+	cursor:hand;
+	color:white;
+	background-color:green;
+	border-radius:.5vw;
+}
+.la{
+align:center;
+	font-size:5vw;
+	font-family:gabriola;
+
+	
+	}
